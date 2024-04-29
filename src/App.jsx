@@ -7,7 +7,7 @@ import Hero from './components/hero/Hero'
 import Grid from './components/grid/Grid'
 import News from './components/news/News'
 import TeamList from './components/team/TeamList'
-import Team from './components/team/Team'
+
 
 
 function App() {
